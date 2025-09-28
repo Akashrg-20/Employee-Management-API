@@ -13,7 +13,6 @@ Features
 <li>Get an employee by ID</li>
 <li>Update employee details</li>
 <li>Delete an employee</li>
-<li>Input validation and error handling</li>
 </ul>
 
 
